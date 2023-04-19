@@ -8,5 +8,5 @@ I'm Zhao Hengsheng
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,nodejs,nuxtjs,ts,sass,scss,docker,git,vite,vscode,jenkins,gitlab,linux,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,nodejs,nuxtjs,ts,sass,docker,git,vite,vscode,jenkins,gitlab,linux,ps)](https://skillicons.dev)
 
